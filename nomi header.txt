@@ -1,0 +1,5 @@
+'sequenceNumber','underArea', 'aboveArea', 'totalArea',
+          'ratio_underAbove','ratio_aboveUnder','ratio_totalUnder','ratio_totalAbove','ratio_underTotal','ratio_aboveTotal',
+          'ratio_prevUnderActUnder','ratio_actUnderPrevUnder','ratio_prevAboveActAbove','ratio_actAbovePrevAbove','ratio_prevTotalActTotal','ratio_actTotalPrevTotal','ratio_prevUnderActAbove','ratio_actUnderPrevAbove','ratio_prevAboveActUnder','ratio_actAbovePrevUnder','ratio_prevTotalActUnder','ratio_actTotalPrevUnder','ratio_prevTotalActAbove','ratio_actTotalPrevAbove','ratio_prevUnderActTotal','ratio_actUnderPrevTotal','ratio_prevAboveActTotal','ratio_actAbovePrevTotal',
+          'ratio_nextUnderActUnder','ratio_actUnderNextUnder','ratio_nextAboveActAbove','ratio_actAboveNextAbove','ratio_nextTotalActTotal','ratio_actTotalNextTotal','ratio_nextUnderActAbove','ratio_actUnderNextAbove','ratio_nextAboveActUnder','ratio_actAboveNextUnder','ratio_nextTotalActUnder','ratio_actTotalNextUnder','ratio_nextTotalActAbove','ratio_actTotalNextAbove','ratio_nextUnderActTotal','ratio_actUnderNextTotal','ratio_nextAboveActTotal','ratio_actAboveNextTotal'
+
